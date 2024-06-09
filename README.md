@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet Hamza Taş</h1>
 <h3 align="center">Computer Engineering Student at MEF University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mh-tas&label=Profile%20views&color=0e75b6&style=flat" alt="mh-tas" /> </p>
+
 
 - 🔭 I’m currently working on **Machine Learning**
 
@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mh-tas&show_icons=true&locale=en" alt="mh-tas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mh-tas&" alt="mh-tas" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mh-tas&label=Profile%20views&color=0e75b6&style=flat" alt="mh-tas" /> </p>
